@@ -1,4 +1,6 @@
 # menampilkan isi list tertentu dengan menggunakan index
+# index positif dimulai dari 0
+# index negatif dimulai dari 1
 
 list_buah = ['apel', 'jeruk', 'mangga', 'alpukat']
 print(list_buah[0]) #apel
