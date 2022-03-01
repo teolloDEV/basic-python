@@ -4,6 +4,7 @@ def selection_sort(data):
         for j in range(i+1, len(data)):
             if data[i] > data[j]:
                 index = j
+
         temp = data[i]
         data[i] = data[index]
         data[index] = temp
