@@ -1,16 +1,9 @@
-def selection_sort(data):
-    for i in range(len(data) -1):
-        index = i
-        for j in range(i+1, len(data)):
-            if data[index] > data[j]:
-                index = j
+# membuat list
 
-        temp = data[i]
-        data[i] = data[index]
-        data[index] = temp
+list_kosong = []
+list_string = ['jakarta', 'bandung', 'jepara', 'bali']
+list_integer = [1, 2, 3, 4, 5, 6, 7, 8]
 
-    print('iterasi', i, data)
-
-
-data = [20, 12, 10, 15, 2]
-selection_sort(data)
+print(list_kosong)
+print(list_string)
+print(list_integer)
