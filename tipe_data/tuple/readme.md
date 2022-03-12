@@ -10,8 +10,6 @@
 | Bisa di ubah | Tidak bisa diubah|
 
 ## 3 Cara membuat Tuple
-___
-
 
  cara standar
 ```
@@ -32,3 +30,7 @@ tuple_lulus = tuple(['lulus', 'tidak lulus'])
 - Tuple adalah tipe data kolektif pada python yang berguna untuk menyimpan lebih dari satu nilai dalam satu variabel secara sekaligus.
 - Ordered berarti data berurut, bisa diakses dengan index
 ```
+
+## Slicing Tuple
+- Slicing adalah teknik memotong nilai dari sebuah tuple. Sintaksnya sama saja dengan teknis slicing di list
+- Mendefinisikan range indeks dengan pemisah tanda titik dua (:)
