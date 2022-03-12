@@ -27,5 +27,8 @@ tuple_status_perkawinan = 'menikah', 'lajang'
  ```
 tuple_lulus = tuple(['lulus', 'tidak lulus'])
 ```
-Tuple adalah tipe data kolektif pada python yang berguna untuk menyimpan lebih dari satu nilai dalam satu variabel secara sekaligus.
-Ordered berarti data berurut, bisa diakses dengan index
+
+```
+- Tuple adalah tipe data kolektif pada python yang berguna untuk menyimpan lebih dari satu nilai dalam satu variabel secara sekaligus.
+- Ordered berarti data berurut, bisa diakses dengan index
+```
