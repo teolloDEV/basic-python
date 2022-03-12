@@ -39,4 +39,9 @@ tuple_lulus = tuple(['lulus', 'tidak lulus'])
 
 - Mengekstrak isi tuple ke variabel tunggal secara berurutan
 - hanya perlu menggunakan operator assignment
-- 
+
+## Menggabungkan 2 buah Tuple
+
+- Menggunakan operator penjumlahan (+)
+
+
