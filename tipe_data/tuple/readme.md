@@ -1,6 +1,6 @@
-# Tuple[^1]
+# Tuple
 
-- Bersifat ordered [^2]
+- Bersifat ordered.
 - Bersifat **unchangable** (Tidak dapat di ubah)
 - Pada Python didefinisikan dengan tanda ()
 
@@ -27,5 +27,5 @@ tuple_status_perkawinan = 'menikah', 'lajang'
  ```
 tuple_lulus = tuple(['lulus', 'tidak lulus'])
 ```
-[^1] : Tipe data kolektif pada python yang berguna untuk menyimpan lebih dari satu nilai dalam satu variabel secara sekaligus.
-[^2] : Data berurut, bisa diakses dengan index
+Tuple adalah tipe data kolektif pada python yang berguna untuk menyimpan lebih dari satu nilai dalam satu variabel secara sekaligus.
+Ordered berarti data berurut, bisa diakses dengan index
