@@ -34,3 +34,9 @@ tuple_lulus = tuple(['lulus', 'tidak lulus'])
 ## Slicing Tuple
 - Slicing adalah teknik memotong nilai dari sebuah tuple. Sintaksnya sama saja dengan teknis slicing di list
 - Mendefinisikan range indeks dengan pemisah tanda titik dua (:)
+
+## Sequence Unpacking
+
+- Mengekstrak isi tuple ke variabel tunggal secara berurutan
+- hanya perlu menggunakan operator assignment
+- 
