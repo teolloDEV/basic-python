@@ -44,4 +44,12 @@ tuple_lulus = tuple(['lulus', 'tidak lulus'])
 
 - Menggunakan operator penjumlahan (+)
 
+## Fungsi-fungsi bawaan tuple
+
+| Nama  | keterangan                            |
+|-------|---------------------------------------|
+| len() | Menghitung jumlah item pada tuple     |
+| max() | Mencari nilai paling besar pada tuple |
+| min() | Mencari nilai paling kecil pada tuple |
+
 
