@@ -18,6 +18,8 @@ class Pemain:
     def get_name(self, isi_nama):
         self.name = isi_nama
         return self.name
-
-akses = Pemain()
-print(akses.get_name('Ronaldo'))
+# satu kelas bisa di panggil oleh banyak object
+pemain_manchester = Pemain()
+pemain_psg = Pemain()
+print(pemain_manchester.get_name('Ronaldo'))
+print(pemain_psg.get_name('mbappe'))
