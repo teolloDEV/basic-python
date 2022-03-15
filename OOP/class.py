@@ -12,6 +12,8 @@ print(akses.name)
 # cara 2
 
 class Pemain:
+
+    #name dibuat abstracat
     name = ''
     def get_name(self, isi_nama):
         self.name = isi_nama
