@@ -1,8 +1,8 @@
 ## Class dan object
 ### Object
-> **Object** harus mempunyai **atribut**
-> Semua hal pada python adalah object
->  setiap fungsi memiliki atribut **__doc__** yang menjadi pertanda fungsi juga merupakan object pada python
+- **Object** harus mempunyai **atribut**
+- Semua hal pada python adalah object
+- setiap fungsi memiliki atribut **__doc__** yang menjadi pertanda fungsi juga merupakan object pada python
 
 ### class
 
