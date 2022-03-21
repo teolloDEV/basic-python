@@ -5,7 +5,6 @@ a, b, c = (
     int(input('Masukkan nilai B : ')),
     int(input('Masukkan nilai C : '))
 )
-
 if (b > a > c) or (c > a > b) :
     print('A menjadi nilai tengah')
 elif ( a > b > c) or (c > b > a):
